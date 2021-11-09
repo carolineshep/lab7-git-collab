@@ -10,3 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 hello trevor <3
+
+Hey Caroline! I'm really looking to get to know you better and work on this project. I have had a hard time adjusting to Bren so it's really exciting to meet someone new to work with. This project sounds like a lot of fun and I am really excited that I got assigned such a great partner!!!
+
