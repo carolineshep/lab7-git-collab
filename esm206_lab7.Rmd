@@ -26,6 +26,8 @@ bro()
 
 ```{r task1}
 plot(cars)
+
+# Very nice Caroline! You're doing great work!
 ```
 
 ```{r task2}
