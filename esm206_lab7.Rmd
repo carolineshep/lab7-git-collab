@@ -31,6 +31,6 @@ plot(cars)
 ```
 
 ```{r task2}
-
+plot(palmerpenguins::penguins)
 ```
 
