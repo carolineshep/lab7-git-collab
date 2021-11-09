@@ -34,3 +34,8 @@ plot(cars)
 plot(palmerpenguins::penguins)
 ```
 
+
+```{r}
+mean_value <- mean(cars$dist)
+```
+
