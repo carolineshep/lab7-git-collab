@@ -22,3 +22,13 @@ bro <- function(){
 
 bro()
 ```
+
+
+```{r task1}
+plot(cars)
+```
+
+```{r task2}
+
+```
+
